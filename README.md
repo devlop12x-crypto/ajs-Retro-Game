@@ -128,3 +128,4 @@ npm run coverage  # покрытие кода
 ## Автор
 
 [devlop12x-crypto](https://github.com/devlop12x-crypto)
+[Vasiliy_Karachev](https://t.me/Vasiliy_Karachev)
